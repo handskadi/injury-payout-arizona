@@ -6,14 +6,6 @@ export default function Home() {
         aria-hidden
         className="absolute inset-0 -z-10 bg-gradient-to-b from-sky-100 via-sky-50 to-amber-50"
       />
-      <svg
-        aria-hidden
-        viewBox="0 0 1440 220"
-        preserveAspectRatio="none"
-        className="absolute bottom-0 left-0 -z-10 h-72 w-full fill-[#f3e6d4] sm:h-80"
-      >
-        <path d="M0 220V150l120-30 60 10 40-60h120l30 50 90 20 110-40 70 10 50-70h160l40 60 120 30 90-20 80 40 110-30 150 20v100z" />
-      </svg>
 
       <section className="flex flex-1 flex-col items-center justify-center py-16">
         <p className="mb-6 rounded-full border border-sky-200 bg-white/70 px-4 py-1 text-xs font-medium uppercase tracking-[0.25em] text-sky-700">
