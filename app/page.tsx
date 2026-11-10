@@ -43,8 +43,7 @@ export default function Home() {
         </p>
         <p>Company Registration Number: 2025-001683244</p>
         <p>
-          Principal office address: 1712 Pioneer Ave. Ste. 7000, Cheyenne, WY
-          82001
+          Address: 1712 Pioneer Ave. Ste. 7000, Cheyenne, WY 82001
         </p>
         <p>&copy; 2026 Injury Payout Arizona. All rights reserved.</p>
       </footer>
