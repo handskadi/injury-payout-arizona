@@ -27,6 +27,17 @@ export default function Home() {
           Coming Soon
         </p>
         <p>
+          Website operated by Injury Payout, a trading style of Above All
+          Enterprises, LLC, an independent marketing and lead-generation
+          business. We are not a law firm and do not provide
+          legal advice. Your inquiry will be shared with the identified law
+          firm.
+        </p>
+        <p>
+          We can connect you with legal assistance regarding your accident.
+          Our participating law firm: Whyte Law, PLLC
+        </p>
+        <p>
           Injury Payout Arizona is a trading name of Above All Enterprises,
           LLC, a limited liability company registered in the State of Wyoming,
           United States.
