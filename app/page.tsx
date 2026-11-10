@@ -33,6 +33,10 @@ export default function Home() {
           firm.
         </p>
         <p>
+          Principal office address: 1712 Pioneer Ave. Ste. 7000, Cheyenne, WY
+          82001
+        </p>
+        <p>
           We can connect you with legal assistance regarding your accident.
           Our participating law firm: Whyte Law, PLLC
         </p>
